@@ -2,7 +2,9 @@
 
 <!--
 **sazzadd/sazzadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Tamim+Ahmed!+🚀++;+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
