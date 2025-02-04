@@ -10,8 +10,8 @@
 
 ```javascript
 const aboutMe = {
-  name: "Your Name",
-  profession: "Web Frontend Designer",
+  name: "sazzad Ador",
+  profession: "Web Frontend Devloper",
   skills: [
     "HTML",
     "CSS3",
@@ -22,7 +22,7 @@ const aboutMe = {
     "JWT Token",
   ],
   introduction() {
-    return `Hi, I'm ${this.name}, a passionate ${this.profession} with expertise in modern web technologies. I specialize in building dynamic and responsive applications using ${this.skills.join(", ")}.`;
+    return `Hi, I'm sazzad hossain, a passionate ${this.profession} with expertise in modern web technologies. I specialize in building dynamic and responsive applications using ${this.skills.join(", ")}.`;
   },
 };
 
