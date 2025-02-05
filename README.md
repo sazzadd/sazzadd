@@ -72,11 +72,12 @@
     <img width="20" />
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png" height="40" alt="indesign logo"  />
   </div>
+<hr>
 
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sazzadd&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+<div align="left">
+  <img  src="https://github-readme-stats.vercel.app/api?username=sazzadd&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+   &nbsp &nbsp &nbsp &nbsp &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sazzadd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
