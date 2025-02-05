@@ -5,7 +5,41 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Sazzad+Hossain!+🚀++;+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
-<h1>💡 Technologies I Work </h1>h1
+
+<h2 align="left"> Get in Touch</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/sazzadador/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://sazzadador.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio%20&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=flat" height="25" alt="devto logo"  />
+  </a>
+  <a href="mailto:sazzadador@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/8801705799384" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="25" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.facebook.com/sazzad.ad0r target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
+  </a>
+
+</div>
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Hellow, I'm Sazzad Hossain, a frontend developer.While I specialize in frontend technologies, I'm also exploring backend fundamentals with MongoDB</p>
+
+###
+
+
+
+
+
+
+<h2 align="left">💡 Technologies & Tools </h1>h1
 
 - **Frontend**:  
   HTML5 | CSS3 | JavaScript | React  
