@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img height="200" src="https://i.ibb.co.com/20QqWNFz/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" />
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Sazzad+Hossain!+🚀++;+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
