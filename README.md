@@ -63,16 +63,24 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" height="40" alt="mongodb logo"  />
   </div>
 
-- **Design**:  
-  Adobe Illustrator | Adobe Photoshop | Adobe InDesign  
-  <div align="right">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-    <img width="20" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-    <img width="20" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/1200px-Adobe_InDesign_CC_icon.svg.png" height="40" alt="indesign logo"  />
-  </div>
 <hr>
+
+### 📂 Featured Projects:
+#### Chill Gamer 🎮
+[![ReadMe Card](https://github.com/TamimAhmedCD/chill-gamer-server)
+> **Description:** A gaming app for fun and relaxation.  
+
+#### Featured Blogs 📖  
+> Working on a blog feature that dynamically sorts by word count using MongoDB. Stay tuned for updates!
+
+---
+
+### 🌍 Connect with Me:
+📫 Email: tamim20072@gmail.com  
+📍 Location: Barlekha, Moulvibazar, Bangladesh  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzadador/)  
+
 
 
 <div align="left">
