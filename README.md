@@ -76,8 +76,8 @@
 ---
 
 ### 🌍 Connect with Me:
-📫 Email: tamim20072@gmail.com  
-📍 Location: Barlekha, Moulvibazar, Bangladesh  
+📫 Email: sazzadador@gmail.com 
+📍 Location: Patuakhali, Bangladesh 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sazzadador/)  
 
