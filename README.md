@@ -5,10 +5,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&color=%2336BCF7&size=25&center=true&vCenter=true&lines=Hi%2C+I'm+Sazzad+Hossain!+🚀++;+Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </div>
-<!-- <h2 align="left">About me</h2>
-
-###
-### 💡 Technologies I Work With
+<h1>💡 Technologies I Work </h1>h1
 
 - **Frontend**:  
   HTML5 | CSS3 | JavaScript | React  
@@ -43,27 +40,3 @@
   </div>
 
 
-
----
-
-### 📊 My GitHub Stats:
-<img alt="my state" align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=TamimAhmedCD&show_icons=true&theme=transparent"/>
-<img alt="langs" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamimAhmedCD&layout=compact"/>
-
----
-<div height="500px">.</div>
-
----
-<div align="left">
-  <a href="https://www.linkedin.com/in/sazzadador/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/sazzadhosainn" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://wa.me/+8801705799384" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
